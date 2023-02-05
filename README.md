@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando Cardiel Avila</h1>
 <h3 align="center">A passionate Backend Developer from Mexico</h3>
 
-- 🌱 I’m currently learning **Python, Java, Spark, SQL, Power BI, Microsoft Azure, Google Cloud Plataform and Kafka**
+- 🌱 I’m currently learning **Python, Java, Spark, SQL, Power BI, Microsoft Azure, Google Cloud Plataform and Kafka.**
 
 - 👨‍💻 All of my projects are available at [https://luisfernandocardielavila.netlify.app/](https://luisfernandocardielavila.netlify.app/)
 
