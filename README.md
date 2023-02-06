@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando Cardiel Avila</h1>
-<h3 align="center">A passionate Backend Developer from Mexico</h3>
+<h3 align="center">A passionate Backend Developer from Mexico City</h3>
 
 - 🌱 I’m currently learning **Python, Java, Spark, SQL, Power BI, Microsoft Azure, Google Cloud Plataform and Kafka.**
 
